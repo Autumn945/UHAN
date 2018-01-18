@@ -9,7 +9,7 @@ User-guided Hierarchical Attention Network for Multi-modal Social Image Populari
 
 ## data.zip
 - It contains a json format file
-  - data.json
+  - data.json
 - Mainly contains the title and description text we crawl.
   - title: the title of the image
   - desc: the description of the image
